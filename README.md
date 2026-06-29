@@ -82,3 +82,5 @@ This project demonstrates the complexities of cross-script and cross-lingual emo
 *   **Multitask Learning**: Explore training models on both translation/transliteration and emotion classification simultaneously.
 *   **Advanced Cross-lingual Techniques**: Investigate more sophisticated cross-lingual transfer learning methods.
 *   **Error Analysis**: Conduct a deeper error analysis for misclassified emotions, especially in minority classes.
+
+## DOI: https://doi.org/10.13140/RG.2.2.16414.09281
